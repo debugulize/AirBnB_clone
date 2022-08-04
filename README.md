@@ -55,7 +55,7 @@ EOF  all  count  create  destroy  help  quit  show  update
 $
 ```
 
-Alternatively, to use the HolbertonBnB console in interactive mode, run the 
+Alternatively, to use the AirBnB console in interactive mode, run the 
 file `console.py` by itself:
 
 ```
@@ -103,7 +103,7 @@ Prints the string representation of a class instance based on a given id.
 $ ./console.py
 (hbnb) create User
 (hbnb)
-(hbnb) show User uid
+(hbnb) show User uid		
 (hbnb) 
 (hbnb) User.show(uid)
 (hbnb) 
