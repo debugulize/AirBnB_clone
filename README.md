@@ -191,7 +191,7 @@ $ ./console.py
 
 ## Testing :straight_ruler:
 
-Unittests for the Airbnbclone project are defined in the [tests](./tests) 
+Unittests for the Airbnb_clone project are defined in the [tests](./tests) 
 folder. To run the entire test suite simultaneously, execute the following command:
 
 ```
